@@ -22,7 +22,6 @@
 
 - 📫 Puedes escribirme a mi correo **marcos291198@gmail.com**
 
-<br>
 <h3 align="center">Lenguajes y Herramientas:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
