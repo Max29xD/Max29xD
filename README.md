@@ -1,6 +1,6 @@
-<p align="center" width="300">
-        <img align="center" width="200"
-            src="[https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png](https://instagram.fsrz2-1.fna.fbcdn.net/v/t51.2885-15/200204323_826957267942801_1794505467286492755_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fsrz2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=i1JSy1b9gLkAX-HzFql&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjU5NTkwNDA1NzQ5NzExMjcxMw%3D%3D.2-ccb7-5&oh=00_AT8lQAVBQ1re5yDmCMcGmNrao_IdHXX4pSo3wGsjE9e1gw&oe=62BA83C4&_nc_sid=30a2ef)" />
+<p align="center">
+        <img align="center" width="150"
+            src="https://lh3.googleusercontent.com/a-/AOh14GijIXHLBmoLxs8ChiP2TAg0ofMCjSOGc_wWjlssU-A=s96-c-rg-br100" />
     <h3 align="center">¡Hola 👋! Soy Marcos Bonilla 👾</h3>
     </p>
 <p align="center">Soy <strong>Desarrollador Frontend y Diseñador Gráfico</strong></p>
