@@ -17,7 +17,7 @@
                 alt="marcos_lbb" height="30" width="40" /></a>      
 </p>
 
-- 🌱 Actualmente estoy aprendiendo **react, flutter, sass**
+- 🌱 Actualmente estoy aprendiendo **react, flutter**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.marcosbonilla.ml/](https://www.marcosbonilla.ml/)
 
