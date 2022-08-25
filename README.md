@@ -12,6 +12,9 @@
         <a href="https://instagram.com/marcos_lbb" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="marcos_lbb" height="30" width="40" /></a>
+        <a href="https://www.facebook.com/marcoslbb" target="blank"><img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+                alt="marcos_lbb" height="30" width="40" /></a>      
 </p>
 
 - 🌱 Actualmente estoy aprendiendo **react, flutter, sass**
