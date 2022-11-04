@@ -1,6 +1,6 @@
 <p align="center">
         <img align="center" width="150"
-            src="https://lh3.googleusercontent.com/a-/AOh14GijIXHLBmoLxs8ChiP2TAg0ofMCjSOGc_wWjlssU-A=s96-c-rg-br100" />
+            src="https://github.com/Max29xD/cloud/blob/main/favicon.svg" />
     <h3 align="center">¡Hola 👋! Soy Marcos Bonilla 👾</h3>
     </p>
 <p align="center">Soy <strong>Desarrollador Frontend y Diseñador Gráfico</strong></p>
