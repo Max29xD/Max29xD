@@ -1,7 +1,7 @@
 <p align="center">
-        <img align="center" width="150"
+        <img align="center" width="200"
             src="https://github.com/Max29xD/cloud/blob/main/favicon.svg" />
-    <h3 align="center">¡Hola 👋! Soy Marcos Bonilla 👾</h3>
+    <h3 align="center">MaxCoding 👾</h3>
     </p>
 <p align="center">Soy <strong>Desarrollador Frontend y Diseñador Gráfico</strong></p>
     <h3 align="center">Conectate conmigo:</h3>
@@ -17,7 +17,7 @@
                 alt="marcos_lbb" height="30" width="40" /></a>      
 </p>
 
-- 🌱 Actualmente estoy aprendiendo **react, flutter**
+- 🌱 Actualmente estoy aprendiendo **flutter, python**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.marcosbonilla.ml/](https://www.marcosbonilla.ml/)
 
