@@ -1,10 +1,11 @@
 <p align="center">
-        <img align="center" width="200"
+        <img align="center" width="250"
             src="https://github.com/Max29xD/cloud/blob/main/favicon.svg" />
-    <h3 align="center">MaxCoding 👾</h3>
+    <h3 align="center"><strong>👾 MaxCoding 👾</strong></h3>
     </p>
-<p align="center">Soy <strong>Desarrollador Frontend y Diseñador Gráfico</strong></p>
-    <h3 align="center">Conectate conmigo:</h3>
+<h3 align="center"><strong>¡Hola👋! Me llamo Marcos Bonilla</strong></h3>  
+<h3 align="center"><strong>Soy Desarrollador Front-end y Diseñador Gráfico</strong></h3>
+    <h4 align="center">Conectate conmigo:</h4>
     <p align="center">
         <a href="https://linkedin.com/in/max29xd" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
