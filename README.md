@@ -18,11 +18,7 @@
                 alt="marcos_lbb" height="30" width="40" /></a>      
 </p>
 
-- 🌱 Actualmente estoy aprendiendo **flutter, python**
-
 - 👨‍💻 Todos mis proyectos están disponibles en [https://www.marcosbonilla.ml/](https://www.marcosbonilla.ml/)
-
-- 💬 Pregúntame sobre **html, css, javascript, react, photoshop, ilustrator, after effect**
 
 - 📫 Puedes escribirme a mi correo **marcos291198@gmail.com**
 
