@@ -43,45 +43,49 @@
             target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" /></a>
-                <a href="https://reactjs.org/" target="_blank" href="https://reactjs.org/"
+                <a href="https://reactjs.org/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://svelte.dev/" target="_blank" href="https://reactjs.org/"
+                <a href="https://svelte.dev/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://preactjs.com/" target="_blank" href="https://reactjs.org/"
+                <a href="https://preactjs.com/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg"
                 alt="react" width="40" height="40" /></a>
-                 <a href="https://nodejs.org/" target="_blank" href="https://reactjs.org/"
+                 <a href="https://nodejs.org/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
                 alt="react" width="40" height="40" /></a>
-                 <a href="https://mysql.com/" target="_blank" href="https://reactjs.org/"
+                 <a href="https://mysql.com/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://mongodb.com/es/" target="_blank" href="https://reactjs.org/"
+                <a href="https://mongodb.com/es/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://tailwindcss.com/" target="_blank" href="https://reactjs.org/"
+                <a href="https://tailwindcss.com/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://www.rust-lang.org/" target="_blank" href="https://reactjs.org/"
+                <a href="https://www.rust-lang.org/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://reactnative.dev/" target="_blank" href="https://reactjs.org/"
+                <a href="https://reactnative.dev/" target="_blank"
             target="_blank" rel="noreferrer"><img
                 src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg"
                 alt="react" width="40" height="40" /></a>
-                <a href="https://firebase.google.com/" target="_blank" href="https://reactjs.org/"
+                <a href="https://firebase.google.com/" target="_blank"
             target="_blank" rel="noreferrer"><img
-                src="https://astro.build/"
+                src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+                alt="react" width="40" height="40" /></a>
+                <a href="https://astro.build/" target="_blank"
+            target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/77fb2b35443d2532c65aee684919a7b6b60e76f9/public/logos/astro.svg"
                 alt="react" width="40" height="40" /></a>
                 <a href="https://www.photoshop.com/en"
             target="_blank" rel="noreferrer"><img
