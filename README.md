@@ -4,7 +4,7 @@
     <h3 align="center"><strong>👾 MaxCoding 👾</strong></h3>
     </p>
 <h3 align="center"><strong>¡Hola👋! Me llamo Marcos Bonilla</strong></h3>  
-<h3 align="center"><strong>Soy Desarrollador Front-end y Diseñador Gráfico</strong></h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=5720FF&center=true&vCenter=true&width=430&lines=Front-End+Developer+%26+Graphic+Designer)](https://git.io/typing-svg)
     <h4 align="center">Conectate conmigo:</h4>
     <p align="center">
         <a href="https://linkedin.com/in/max29xd" target="blank"><img align="center"
