@@ -27,17 +27,14 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40" />
-    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
+    </a>    
     <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/iso_cplusplus/iso_cplusplus-icon.svg" alt="c++" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/useplus/c-plusplus.svg" alt="c++" width="40" height="40" />
     </a>
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
     </a>
 </p>
 
