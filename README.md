@@ -125,10 +125,8 @@
         </a>
 </p>
 
-<p align="center">
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max29xD&theme=midnight_purple)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max29xD&theme=midnight_purple)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Max29xD&theme=midnight_purple&utcOffset=8)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max29xD&theme=midnight_purple)
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max29xD&theme=midnight_purple)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max29xD&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max29xD&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Max29xD&theme=midnight_purple&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max29xD&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max29xD&theme=midnight_purple)
