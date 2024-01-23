@@ -126,6 +126,7 @@
 </p>
 
 <table><tr>
+<table><tr>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max29xD&theme=midnight_purple" />
