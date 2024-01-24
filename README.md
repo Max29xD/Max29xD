@@ -37,10 +37,10 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
     </a>
 </p>
 
@@ -59,7 +59,7 @@
         <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/77fb2b35443d2532c65aee684919a7b6b60e76f9/public/logos/astro.svg" alt="astro" width="40" height="40" />
+        <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" />
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
@@ -74,7 +74,7 @@
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+        <img src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="flutter" width="40" height="40" />
     </a>
 </p>
 
