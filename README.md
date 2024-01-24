@@ -36,9 +36,15 @@
     <a href="https://www.java.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="java" width="40" height="40" />
+    </a>
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="java" width="40" height="40" />
+    </a>
 </p>
 
-<h3 align="center">Frameworks y bibliotecas:</h3>
+<h3 align="center">Frameworks Frontend:</h3>
 <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -50,13 +56,38 @@
         <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40" />
+        <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="40" height="40" />
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/77fb2b35443d2532c65aee684919a7b6b60e76f9/public/logos/astro.svg" alt="astro" width="40" height="40" />
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
+    </a>
+    <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="reactnative" width="40" height="40" />
+    </a>
+    <a href="https://tauri.app/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="reactnative" width="40" height="40" />
+    </a>
+    <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/electronjs/electronjs-icon.svg" alt="reactnative" width="40" height="40" />
+    </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="reactnative" width="40" height="40" />
+    </a>
+</p>
+
+<h3 align="center">Estilos:</h3>
+<p align="center">
+    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="tailwindcss" width="40" height="40" />
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sass-lang/sass-lang-icon.svg" alt="tailwindcss" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
     </a>
 </p>
 
@@ -71,6 +102,12 @@
     <a href="https://mongodb.com/es/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
     </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    </a>
+    <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
+    </a>
 </p>
 
 <h3 align="center">Herramientas de diseño:</h3>
@@ -80,19 +117,6 @@
     </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-    </a>
-</p>
-
-<h3 align="center">Otras tecnologías:</h3>
-<p align="center">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
     </a>
 </p>
 
