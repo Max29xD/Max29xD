@@ -37,10 +37,10 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
     </a>
 </p>
 
@@ -56,7 +56,7 @@
         <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="nextjs" width="40" height="40" />
+        <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
     </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/77fb2b35443d2532c65aee684919a7b6b60e76f9/public/logos/astro.svg" alt="astro" width="40" height="40" />
@@ -71,20 +71,20 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="tauri" width="40" height="40" />
     </a>
     <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/electronjs/electronjs-icon.svg" alt="electronjs" width="40" height="40" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="flutte" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
     </a>
 </p>
 
 <h3 align="center">Estilos:</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40" />
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
