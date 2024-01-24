@@ -22,8 +22,8 @@
 
 - 📫 Puedes escribirme a mi correo **marcos291198@gmail.com**
 
-<p align="center" style="display: inline-block;">
-<h3>Lenguajes de programación:</h3>
+<p align="center">
+<h3 align="center">Lenguajes de programación:</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
@@ -42,8 +42,10 @@
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
     </a>
+</p>
 
-<h3>Frameworks Frontend:</h3>
+<h3 align="center">Frameworks Frontend:</h3>
+<p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     </a>
