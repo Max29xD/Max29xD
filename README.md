@@ -37,10 +37,10 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="40" height="40" />
     </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
     </a>
 </p>
 
