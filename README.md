@@ -37,10 +37,10 @@
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="java" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="java" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
     </a>
 </p>
 
@@ -65,26 +65,26 @@
         <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
     </a>
     <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="reactnative" width="40" height="40" />
+        <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="qwik" width="40" height="40" />
     </a>
     <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="reactnative" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="tauri" width="40" height="40" />
     </a>
     <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/electronjs/electronjs-icon.svg" alt="reactnative" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/electronjs/electronjs-icon.svg" alt="electronjs" width="40" height="40" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="reactnative" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="flutte" width="40" height="40" />
     </a>
 </p>
 
 <h3 align="center">Estilos:</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="tailwindcss" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" />
     </a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sass-lang/sass-lang-icon.svg" alt="tailwindcss" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
