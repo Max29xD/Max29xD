@@ -93,11 +93,14 @@
 
 <h3 align="center">Bases de datos:</h3>
 <p align="center">
+    <a href="https://postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
+    </a>
     <a href="https://mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
     </a>
-    <a href="https://postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
+    <a href="https://www.microsoft.com/es-es/sql-server/" target="_blank" rel="noreferrer">
+        <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="sqlserver" width="40" height="40" />
     </a>
     <a href="https://mongodb.com/es/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
