@@ -52,14 +52,14 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
     </a>
-    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" width="40" height="40" />
-    </a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" />
     </a>
     <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer">
         <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="qwik" width="40" height="40" />
+    </a>
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+        <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" width="40" height="40" />
     </a>
     <a href="https://preactjs.com/" target="_blank" rel="noreferrer">
         <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
