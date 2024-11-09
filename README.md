@@ -90,6 +90,12 @@
     <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
     </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" alt="vue" width="40" height="40" />
+    </a>
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" alt="nuxt" width="40" height="40" />
+    </a>
 </div>
 
 ###
