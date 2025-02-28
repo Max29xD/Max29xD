@@ -28,7 +28,7 @@
 
 ###
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://maxcoding.pages.dev](https://maxcoding.pro)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://maxcoding.pages.dev](https://maxcoding.pages.dev)
 
 - 📫 Puedes escribirme a mi correo **marcos291198@gmail.com**
 
