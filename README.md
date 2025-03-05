@@ -15,7 +15,7 @@
 
 <h4 align="center">Conectate conmigo:</h4>
 <div align="center">
-    <a href="https://linkedin.com/in/max29xd" target="blank" rel="noreferrer">
+    <a href="https://linkedin.com/in/maxcoding" target="blank" rel="noreferrer">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max29xd" height="30" width="40" />
     </a>
     <a href="https://instagram.com/marcos_lbb" target="blank" rel="noreferrer">
