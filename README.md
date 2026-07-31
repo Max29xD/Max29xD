@@ -15,7 +15,7 @@
     <a href="https://github.com/max29xd"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40max29xd-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
     <a href="https://maxcoding.pages.dev"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-maxcoding.pages.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
     <a href="https://linkedin.com/in/maxcoding"><img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40maxcoding-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://instagram.com/marcos_lbb"><img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://instagram.com/marcos_lbb"><img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-%40marcos_lbb-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
 </div>
 
 <div align="center" style="margin-top: 8px;">
