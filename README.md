@@ -11,19 +11,17 @@
     <strong>Desarrollador Front-end y Diseñador Gráfico</strong>
 </h3>
 
-###
-
-<h4 align="center">Conectate conmigo:</h4>
 <div align="center">
-    <a href="https://linkedin.com/in/maxcoding" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="max29xd" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/marcos_lbb" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"alt="marcos_lbb" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/marcoslbb" target="blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcos_lbb" height="30" width="40" />
-    </a>
+    <a href="https://github.com/max29xd"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40max29xd-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://maxcoding.pages.dev"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-maxcoding.pages.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://linkedin.com/in/maxcoding"><img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40maxcoding-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://instagram.com/marcos_lbb"><img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-Instagram-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+</div>
+
+<div align="center" style="margin-top: 8px;">
+    <a href="https://github.com/max29xd?tab=followers"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/max29xd.svg?variant=secondary&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://github.com/max29xd?tab=repositories"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/max29xd.svg?variant=secondary&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://github.com/max29xd?tab=repositories"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-26-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=dark&amp;font=geist" /></a>
 </div>
 
 ###
@@ -36,121 +34,60 @@
 
 <div align="center">
     <h3>Lenguajes de programación:</h3>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="c++" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="c++" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
 </div>
 
 ###
 
 <div align="center">
     <h3>Frameworks Frontend:</h3>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://astro.build/" target="_blank" rel="noreferrer">
-        <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" />
-    </a>
-    <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer">
-        <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="qwik" width="40" height="40" />
-    </a>
-    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" width="40" height="40" />
-    </a>
-    <a href="https://preactjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="flutter" width="40" height="40" />
-    </a>
-    <a href="https://tauri.app/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="tauri" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" alt="vue" width="40" height="40" />
-    </a>
-    <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" alt="nuxt" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
+    <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" />
+    <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="qwik" width="40" height="40" />
+    <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" width="40" height="40" />
+    <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
+    <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
+    <img src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="flutter" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="tauri" width="40" height="40" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" alt="vue" width="40" height="40" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" alt="nuxt" width="40" height="40" />
 </div>
 
 ###
 
 <div align="center">
     <h3>Estilos:</h3>
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
-    </a>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
 </div>
 
 ###
 
 <div align="center">
     <h3>Bases de datos:</h3>
-    <a href="https://postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/es-es/sql-server/" target="_blank" rel="noreferrer">
-        <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="sqlserver" width="40" height="40" />
-    </a>
-    <a href="https://mongodb.com/es/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
-    </a>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
+    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="sqlserver" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
 </div>
 
 ###
 
 <div align="center">
     <h3>Herramientas de diseño:</h3>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
 </div>
-
-<table><tr>
-<table><tr>
 
 ###
 
