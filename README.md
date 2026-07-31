@@ -1,97 +1,134 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/header/gradient.svg?title=MaxCoding&subtitle=Desarrollador+Front-end+y+Dise%C3%B1ador+Gr%C3%A1fico&logo=code&theme=violet&mode=dark&font=geist" />
+    <img alt="MaxCoding Header" src="https://www.shieldcn.dev/header/gradient.svg?title=MaxCoding&subtitle=Desarrollador+Front-end+y+Dise%C3%B1ador+Gr%C3%A1fico&logo=code&theme=violet&mode=light&font=geist" />
+  </picture>
+</p>
+
 <div align="center">
-    <img align="center" width="250" src="https://github.com/Max29xD/cloud/blob/main/favicon.svg" />
+    <img align="center" width="180" src="https://github.com/Max29xD/cloud/blob/main/favicon.svg" />
 </div>
 
-###
-
-<h3 align="center">
-    <strong>👾 MaxCoding 👾</strong>
-</h3>
-<h3 align="center">
-    <strong>Desarrollador Front-end y Diseñador Gráfico</strong>
-</h3>
+<br />
 
 <div align="center">
-    <a href="https://github.com/max29xd"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40max29xd-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://maxcoding.pages.dev"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-maxcoding.pages.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://linkedin.com/in/maxcoding"><img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40maxcoding-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://instagram.com/marcos_lbb"><img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-%40marcos__lbb-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=dark&amp;font=geist" /></a>
+    <a href="https://github.com/max29xd">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40max29xd-181717.svg?logo=github&amp;variant=branded&amp;mode=dark&amp;font=geist">
+        <img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40max29xd-181717.svg?logo=github&amp;variant=branded&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="https://maxcoding.pages.dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Sitio_Web-maxcoding.pages.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;mode=dark&amp;font=geist">
+        <img alt="Sitio Web" src="https://www.shieldcn.dev/badge/Sitio_Web-maxcoding.pages.dev-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="https://linkedin.com/in/maxcoding">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/LinkedIn-%40maxcoding-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=dark&amp;font=geist">
+        <img alt="LinkedIn" src="https://www.shieldcn.dev/badge/LinkedIn-%40maxcoding-0A66C2.svg?logo=linkedin&amp;variant=branded&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="https://instagram.com/marcos_lbb">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Instagram-%40marcos__lbb-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=dark&amp;font=geist">
+        <img alt="Instagram" src="https://www.shieldcn.dev/badge/Instagram-%40marcos__lbb-E4405F.svg?logo=instagram&amp;variant=branded&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="mailto:marcos291198@gmail.com">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Gmail-marcos291198%40gmail.com-EA4335.svg?logo=gmail&amp;variant=branded&amp;mode=dark&amp;font=geist">
+        <img alt="Correo" src="https://www.shieldcn.dev/badge/Gmail-marcos291198%40gmail.com-EA4335.svg?logo=gmail&amp;variant=branded&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
 </div>
 
 <div align="center" style="margin-top: 8px;">
-    <a href="https://github.com/max29xd?tab=followers"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/max29xd.svg?variant=secondary&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://github.com/max29xd?tab=repositories"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/max29xd.svg?variant=secondary&amp;mode=dark&amp;font=geist" /></a>
-    <a href="https://github.com/max29xd?tab=repositories"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-26-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=dark&amp;font=geist" /></a>
-</div>
-
-###
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://maxcoding.pages.dev](https://maxcoding.pages.dev)
-
-- 📫 Puedes escribirme a mi correo **marcos291198@gmail.com**
-
-###
-
-<div align="center">
-    <h3>Lenguajes de programación:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/c-plusplus.svg" alt="c++" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="dart" width="40" height="40" />
-</div>
-
-###
-
-<div align="center">
-    <h3>Frameworks Frontend:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="nextjs" width="40" height="40" />
-    <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" alt="astro" width="40" height="40" />
-    <img src="https://icon.icepanel.io/Technology/svg/Qwik.svg" alt="qwik" width="40" height="40" />
-    <img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" alt="svelte" width="40" height="40" />
-    <img src="https://brandeps.com/logo-download/P/Preact-logo-vector-01.svg" alt="preact" width="40" height="40" />
-    <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" alt="reactnative" width="40" height="40" />
-    <img src="https://static-00.iconduck.com/assets.00/flutter-icon-413x512-4picx6vy.png" alt="flutter" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/t/tauri-1.svg" alt="tauri" width="40" height="40" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/electron-icon.png" alt="electronjs" width="40" height="40" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.png" alt="vue" width="40" height="40" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.png" alt="nuxt" width="40" height="40" />
+    <a href="https://github.com/max29xd?tab=followers">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/max29xd.svg?label=Seguidores&amp;variant=secondary&amp;mode=dark&amp;font=geist">
+        <img alt="Seguidores" src="https://www.shieldcn.dev/github/followers/max29xd.svg?label=Seguidores&amp;variant=secondary&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="https://github.com/max29xd?tab=repositories">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/max29xd.svg?label=Estrellas&amp;variant=secondary&amp;mode=dark&amp;font=geist">
+        <img alt="Estrellas" src="https://www.shieldcn.dev/github/user-stars/max29xd.svg?label=Estrellas&amp;variant=secondary&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
+    <a href="https://github.com/max29xd?tab=repositories">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repositorios-26-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=dark&amp;font=geist">
+        <img alt="Repositorios" src="https://www.shieldcn.dev/badge/Repositorios-26-2563eb.svg?logo=github&amp;variant=secondary&amp;mode=light&amp;font=geist">
+      </picture>
+    </a>
 </div>
 
 ###
 
 <div align="center">
-    <h3>Estilos:</h3>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40" />
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" />
+    <h3>⚡ Lenguajes de programación</h3>
+    <img src="https://www.shieldcn.dev/badge/JavaScript-F7DF1E.svg?logo=javascript&amp;logoColor=000000&amp;variant=secondary&amp;font=geist" alt="JavaScript" />
+    <img src="https://www.shieldcn.dev/badge/TypeScript-3178C6.svg?logo=typescript&amp;variant=secondary&amp;font=geist" alt="TypeScript" />
+    <img src="https://www.shieldcn.dev/badge/C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=secondary&amp;font=geist" alt="C++" />
+    <img src="https://www.shieldcn.dev/badge/Java-007396.svg?logo=java&amp;variant=secondary&amp;font=geist" alt="Java" />
+    <img src="https://www.shieldcn.dev/badge/Python-3776AB.svg?logo=python&amp;variant=secondary&amp;font=geist" alt="Python" />
+    <img src="https://www.shieldcn.dev/badge/Dart-0175C2.svg?logo=dart&amp;variant=secondary&amp;font=geist" alt="Dart" />
 </div>
 
 ###
 
 <div align="center">
-    <h3>Bases de datos:</h3>
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40" />
-    <img src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" alt="sqlserver" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40" />
+    <h3>🚀 Frameworks & Librerías Frontend</h3>
+    <img src="https://www.shieldcn.dev/badge/React-61DAFB.svg?logo=react&amp;logoColor=000000&amp;variant=secondary&amp;font=geist" alt="React" />
+    <img src="https://www.shieldcn.dev/badge/Next.js-000000.svg?logo=nextdotjs&amp;variant=secondary&amp;font=geist" alt="Next.js" />
+    <img src="https://www.shieldcn.dev/badge/Astro-BC52EE.svg?logo=astro&amp;variant=secondary&amp;font=geist" alt="Astro" />
+    <img src="https://www.shieldcn.dev/badge/Qwik-18B6F6.svg?logo=qwik&amp;variant=secondary&amp;font=geist" alt="Qwik" />
+    <img src="https://www.shieldcn.dev/badge/Svelte-FF3E00.svg?logo=svelte&amp;variant=secondary&amp;font=geist" alt="Svelte" />
+    <img src="https://www.shieldcn.dev/badge/Preact-673AB8.svg?logo=preact&amp;variant=secondary&amp;font=geist" alt="Preact" />
+    <img src="https://www.shieldcn.dev/badge/React_Native-61DAFB.svg?logo=react&amp;logoColor=000000&amp;variant=secondary&amp;font=geist" alt="React Native" />
+    <img src="https://www.shieldcn.dev/badge/Flutter-02569B.svg?logo=flutter&amp;variant=secondary&amp;font=geist" alt="Flutter" />
+    <img src="https://www.shieldcn.dev/badge/Tauri-FFC131.svg?logo=tauri&amp;logoColor=000000&amp;variant=secondary&amp;font=geist" alt="Tauri" />
+    <img src="https://www.shieldcn.dev/badge/Electron-47848F.svg?logo=electron&amp;variant=secondary&amp;font=geist" alt="Electron" />
+    <img src="https://www.shieldcn.dev/badge/Vue.js-4FC08D.svg?logo=vuedotjs&amp;variant=secondary&amp;font=geist" alt="Vue.js" />
+    <img src="https://www.shieldcn.dev/badge/Nuxt.js-00DC82.svg?logo=nuxtdotjs&amp;variant=secondary&amp;font=geist" alt="Nuxt.js" />
 </div>
 
 ###
 
 <div align="center">
-    <h3>Herramientas de diseño:</h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
+    <h3>🎨 Estilos & UI</h3>
+    <img src="https://www.shieldcn.dev/badge/CSS3-1572B6.svg?logo=css3&amp;variant=secondary&amp;font=geist" alt="CSS3" />
+    <img src="https://www.shieldcn.dev/badge/Sass-CC6699.svg?logo=sass&amp;variant=secondary&amp;font=geist" alt="Sass" />
+    <img src="https://www.shieldcn.dev/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=secondary&amp;font=geist" alt="Tailwind CSS" />
 </div>
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Commits" />
+<div align="center">
+    <h3>🗄️ Bases de Datos</h3>
+    <img src="https://www.shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&amp;variant=secondary&amp;font=geist" alt="PostgreSQL" />
+    <img src="https://www.shieldcn.dev/badge/MySQL-4479A1.svg?logo=mysql&amp;variant=secondary&amp;font=geist" alt="MySQL" />
+    <img src="https://www.shieldcn.dev/badge/SQL_Server-CC292B.svg?logo=microsoftsqlserver&amp;variant=secondary&amp;font=geist" alt="SQL Server" />
+    <img src="https://www.shieldcn.dev/badge/MongoDB-47A248.svg?logo=mongodb&amp;variant=secondary&amp;font=geist" alt="MongoDB" />
+    <img src="https://www.shieldcn.dev/badge/Firebase-DD2C00.svg?logo=firebase&amp;variant=secondary&amp;font=geist" alt="Firebase" />
+    <img src="https://www.shieldcn.dev/badge/Supabase-3FCF8E.svg?logo=supabase&amp;variant=secondary&amp;font=geist" alt="Supabase" />
+</div>
+
+###
+
+<div align="center">
+    <h3>🛠️ Herramientas de Diseño</h3>
+    <img src="https://www.shieldcn.dev/badge/Photoshop-31A8FF.svg?logo=adobephotoshop&amp;variant=secondary&amp;font=geist" alt="Photoshop" />
+    <img src="https://www.shieldcn.dev/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&amp;variant=secondary&amp;font=geist" alt="Illustrator" />
+</div>
+
+###
+
+<div align="center">
+    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Commits" />
+</div>
 
 ###
 
@@ -117,6 +154,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/djsmilex29">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=djsmilex29&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=djsmilex29&count=5" alt="Spotify recently played" />
   </a>
 </div>
