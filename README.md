@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" width="100%" src="https://raw.githubusercontent.com/Max29xD/cloud/main/new%20logo.svg" alt="MaxCoding Header Logo" />
+    <img align="center" width="600" src="https://raw.githubusercontent.com/Max29xD/cloud/main/new%20logo.svg" alt="MaxCoding Header Logo" />
 </div>
 
 <br />
