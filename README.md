@@ -39,7 +39,9 @@
     </a>
 </div>
 
-<div align="center" style="margin-top: 8px;">
+###
+
+<div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/max29xd.svg?label=Seguidores&amp;variant=secondary&amp;mode=dark&amp;font=geist">
       <img alt="Seguidores" src="https://www.shieldcn.dev/github/followers/max29xd.svg?label=Seguidores&amp;variant=secondary&amp;mode=light&amp;font=geist">
