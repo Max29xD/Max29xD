@@ -1,8 +1,10 @@
+###
+
 <div align="center">
-    <img align="center" width="600" src="https://raw.githubusercontent.com/Max29xD/cloud/main/new%20logo.svg" alt="MaxCoding Header Logo" />
+    <img align="center" width="500" src="https://raw.githubusercontent.com/Max29xD/cloud/main/new%20logo.svg" alt="MaxCoding Header Logo" />
 </div>
 
-<br />
+###
 
 <div align="center">
     <a href="https://github.com/max29xd">
@@ -94,7 +96,7 @@
 ###
 
 <div align="center">
-    <h3>🗄️ Bases de Datos</h3>
+    <h3>Bases de Datos</h3>
     <img src="https://www.shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql&amp;variant=secondary&amp;font=geist" alt="PostgreSQL" />
     <img src="https://www.shieldcn.dev/badge/MySQL-4479A1.svg?logo=mysql&amp;variant=secondary&amp;font=geist" alt="MySQL" />
     <img src="https://www.shieldcn.dev/badge/SQL_Server-CC292B.svg?logo=microsoftsqlserver&amp;variant=secondary&amp;font=geist" alt="SQL Server" />
@@ -111,33 +113,9 @@
     <img src="https://www.shieldcn.dev/badge/Illustrator-FF9A00.svg?logo=adobeillustrator&amp;variant=secondary&amp;font=geist" alt="Illustrator" />
 </div>
 
-###
-
 <div align="center">
     <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Commits" />
 </div>
-
-###
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max29xD&theme=midnight_purple" />
-</div>
-
-###
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Max29xD&theme=midnight_purple" style="display: inline-block;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Max29xD&theme=midnight_purple&utcOffset=8" style="display: inline-block;" />
-</div>
-
-###
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max29xD&theme=midnight_purple" style="display: inline-block;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max29xD&theme=midnight_purple" style="display: inline-block;" />
-</div>
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/djsmilex29">
